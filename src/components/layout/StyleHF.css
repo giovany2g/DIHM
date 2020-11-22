@@ -1,0 +1,44 @@
+.header-style{
+    position: absolute;
+    width: 1440px;
+    height: 104px;
+    left: 0px;
+    top: 0px;
+    background: #0E153B;
+}
+
+.footer-style {
+    position: absolute;
+    width: 1440px;
+    height: 75px;
+    left: 0px;
+    top: 884px;
+    background: #0E153B;
+}
+
+.text-header{
+    position: absolute;
+    height: 49px;
+    top: 28px;
+
+    font-family: Cambay;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 49px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.text-footer{
+    position: absolute;
+    height: 29px;
+    top: 940px;
+    font-family: Cambay;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+}
